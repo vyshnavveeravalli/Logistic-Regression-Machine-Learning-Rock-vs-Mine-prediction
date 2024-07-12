@@ -1,5 +1,7 @@
 # Logistic-Regression-Machine-Learning-Rock-vs-Mine-prediction
 
+ a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction. 
+
 ![image](https://github.com/vyshnavveeravalli/Logistic-Regression-Machine-Learning-Rock-vs-Mine-prediction/assets/97904310/267b842d-013a-41f9-a29d-cf80c9b78f59)
 
 
